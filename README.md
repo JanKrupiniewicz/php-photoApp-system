@@ -18,7 +18,8 @@ This is a web photo gallery application developed using PHP and MySQL. It allows
 - JavaScript
 - Bootstrap
 
-  ![Zrzut ekranu 2024-03-19 182752](https://github.com/JanKrupiniewicz/php-photoApp-system/assets/128649617/7fa07457-4691-447e-862b-86886cdb5d44)
+![Zrzut ekranu 2024-04-11 224116](https://github.com/JanKrupiniewicz/php-photoApp-system/assets/128649617/8e9f7203-b7dd-459d-a6ff-98d4cc8c0e3c)
 ![Zrzut ekranu 2024-03-19 182554](https://github.com/JanKrupiniewicz/php-photoApp-system/assets/128649617/2cc420e8-26de-4053-82fe-f65f942f430a)
 ![Zrzut ekranu 2024-03-19 182713](https://github.com/JanKrupiniewicz/php-photoApp-system/assets/128649617/6987d0b1-891e-4f5c-bae4-9784609df732)
-![Zrzut ekranu 2024-03-19 182623](https://github.com/JanKrupiniewicz/php-photoApp-system/assets/128649617/2c4b15d2-fa58-4aa2-a7b8-5d7b3f80addf)
+![image](https://github.com/JanKrupiniewicz/php-photoApp-system/assets/128649617/c0707c97-0042-494b-b43b-fa2eebc65e72)
+
